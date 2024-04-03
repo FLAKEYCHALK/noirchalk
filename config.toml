@@ -2,7 +2,7 @@ theme = "lightspeed"
 title = "NOIRCHALK"
 description = "We are but dust and shadow"
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "https://noirchalk.netlify.app/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true

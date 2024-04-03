@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://example.com/</loc>
+        <loc>https://noirchalk.netlify.app/</loc>
     </url>
     <url>
-        <loc>https://example.com/about/</loc>
+        <loc>https://noirchalk.netlify.app/about/</loc>
     </url>
     <url>
-        <loc>https://example.com/echoes-of-solitude/</loc>
+        <loc>https://noirchalk.netlify.app/echoes-of-solitude/</loc>
         <lastmod>2024-04-03</lastmod>
     </url>
     <url>
-        <loc>https://example.com/fleeting-whispers/</loc>
+        <loc>https://noirchalk.netlify.app/fleeting-whispers/</loc>
         <lastmod>2024-04-02</lastmod>
     </url>
     <url>
-        <loc>https://example.com/forgotten-melodies/</loc>
+        <loc>https://noirchalk.netlify.app/forgotten-melodies/</loc>
         <lastmod>2024-04-03</lastmod>
     </url>
     <url>
-        <loc>https://example.com/gallery/</loc>
+        <loc>https://noirchalk.netlify.app/gallery/</loc>
         <lastmod>2024-04-07</lastmod>
     </url>
     <url>
-        <loc>https://example.com/introduction/</loc>
+        <loc>https://noirchalk.netlify.app/introduction/</loc>
         <lastmod>2024-04-01</lastmod>
     </url>
     <url>
-        <loc>https://example.com/lost-horizons/</loc>
+        <loc>https://noirchalk.netlify.app/lost-horizons/</loc>
         <lastmod>2024-04-03</lastmod>
     </url>
     <url>
-        <loc>https://example.com/memories-unspoken/</loc>
+        <loc>https://noirchalk.netlify.app/memories-unspoken/</loc>
         <lastmod>2024-04-05</lastmod>
     </url>
     <url>
-        <loc>https://example.com/wandering-paths/</loc>
+        <loc>https://noirchalk.netlify.app/wandering-paths/</loc>
         <lastmod>2024-04-02</lastmod>
     </url>
 </urlset>
