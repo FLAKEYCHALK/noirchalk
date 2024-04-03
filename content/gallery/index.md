@@ -10,7 +10,7 @@ The first voice **echoed**, his eyes fixed on the image of a man **lost in conte
 
 The second voice **murmured**, lines etched deep into his face telling tales of journeys taken and **paths not chosen**.
 
-The third **spoked**, his gaze distant yet **longing for companionship** in a world that seemed to have moved on.
+The third **spoke**, his gaze distant yet **longing for companionship** in a world that seemed to have moved on.
 
 The fourth **reminisced**, his eyes holding traces of **music once filled with joy**.
 
